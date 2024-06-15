@@ -1,5 +1,5 @@
 # OCTANET___MAY
-Advanced Todo List Application
+# Advanced Todo List Application
 This project is a sophisticated todo list application built with HTML, CSS, and JavaScript. It offers a clean and responsive user interface to manage tasks efficiently. The application features adding, editing, deleting, and filtering todos, with persistent data storage using localStorage.
 
 Features
